@@ -1,0 +1,6 @@
+{var}.push({val}) --> adiciona o {val} no final do array
+{var}.pop({val}) --> remove o último termo do array
+
+{var}.shift({val}) --> remove o primeiro valor do array
+{var}.unshift({val}) --> adiciona o {val} no começo do array
+
